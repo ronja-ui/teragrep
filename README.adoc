@@ -8,29 +8,62 @@ This is a portal page for accessing different parts of Teragrep.
 |===
 |Component |Description
 
+|https://github.com/teragrep/aer_01[aer_01]
+|Teragrep syslog bridge for Microsoft Azure EventHub
+
+|https://github.com/teragrep/aer_02[aer_02]
+|Teragrep syslog bridge function for Microsoft Azure EventHub
+
 |https://github.com/teragrep/ajs_01[ajs_01]
 |Teragrep user-interface
 
+|https://github.com/teragrep/akv_01[akv_01]
+|Teragrep Key Value Mapping for Microsoft Azure EventHub
+
 |https://github.com/teragrep/blf_01[blf_01]
-|Bloom filter library
+|Tokenizer for Teragrep
 
 |https://github.com/teragrep/blf_02[blf_02]
-|MariaDB bloom filter plugin
+|Teragrep Bloom filter plugin for MariaDB
 
 |https://github.com/teragrep/bos_01[bos_01]
-|Teragrep flavor repack of s3proxy
+|Teragrep repack for s3proxy
 
 |https://github.com/teragrep/cfe_16[cfe_16]
-|HTTP event capture to RFC5424
+|Teragrep data capture for HTTP events
+
+|https://github.com/teragrep/cfe_18[cfe_18]
+|Integration main data management for Teragrep
+
+|https://github.com/teragrep/cfe_31[cfe_31]
+|Integration data conversion tool for Teragrep
+
+|https://github.com/teragrep/cfe_35[cfe_35]
+|Record Router for Teragrep
+
+|https://github.com/teragrep/cfe_39[cfe_39]
+|Teragrep record ingestion for HDFS
+
+|https://github.com/teragrep/cfe_41[cfe_41]
+|Integration Command-line tool for Teragrep
+
+|https://github.com/teragrep/cnf_01[cnf_01]
+|Teragrep Configuration Library for Java
+
+|https://github.com/teragrep/cnf_02[cnf_02]
+|Teragrep Configuration Wrapper for com.typesafe.config
+
+|https://github.com/teragrep/dkr_01[dkr_01]
+|Teragrep RELP Logging Driver for Docker
 
 |https://github.com/teragrep/doc_01[doc_01]
 |Teragrep documentation
 
 |https://github.com/teragrep/dpf_02[dpf_02]
-|Batch collect
+|Teragrep Result Aggregation for Apache Spark
 
 |https://github.com/teragrep/dpf_03[dpf_03]
-|Tokenizer Aggregator
+|Teragrep Tokenizer for Apache Spark
 
 |https://github.com/teragrep/jla_01[jla_01]
 |Logback RELP appender library

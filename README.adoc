@@ -65,32 +65,56 @@ This is a portal page for accessing different parts of Teragrep.
 |https://github.com/teragrep/dpf_03[dpf_03]
 |Teragrep Tokenizer for Apache Spark
 
+|https://github.com/teragrep/hbs_02[hbs_02]
+|Teragrep installer for HBase
+
+|https://github.com/teragrep/hbs_03[hbs_03]
+|Teragrep metadata store for HBase
+
+|https://github.com/teragrep/hdp_04[hdp_04]
+|Execution Requisites
+
+|https://github.com/teragrep/jai_01[jai_01]
+|Teragrep Authorization Info in JSON for Java
+
+|https://github.com/teragrep/jai_02[jai_02]
+|Teragrep Authentication Info in JSON for Java
+
 |https://github.com/teragrep/jla_01[jla_01]
-|Logback RELP appender library
+|Teragrep RELP plugin for Logback
 
 |https://github.com/teragrep/jla_02[jla_02]
-|Example source for jla_01
+|Example Source for jla_XX loggers
 
 |https://github.com/teragrep/jla_04[jla_04]
-|Java Util logging RELP handler
+|Teragrep RELP Handler for Java Util Logging
 
 |https://github.com/teragrep/jla_05[jla_05]
-|Log4j RELP plugin
+|Teragrep RELP appender for Log4j 1.x
 
 |https://github.com/teragrep/jla_06[jla_06]
-|Log4j2 RELP plugin
+|Teragrep RELP appender for Log4j2
 
 |https://github.com/teragrep/jlt_01[jlt_01]
-|Java lookup tables
+|Teragrep Lookup Table Library for Java
+
+|https://github.com/teragrep/jos_01[jos_01]
+|Teragrep Operating System Statistics Library for Java
 
 |https://github.com/teragrep/jpr_01[jpr_01]
-|Java PCRE library
+|Teragrep PCRE 2 Library for Java
 
 |https://github.com/teragrep/jsa_01[jsa_01]
-|JavaScript Log4js appender
+|Teragrep RELP appender for Log4js
 
 |https://github.com/teragrep/jue_01[jue_01]
-|Java UNIX Extensions
+|Teragrep extension library for Java on UNIX
+
+|https://github.com/teragrep/k8s_01[k8s_01]
+|Teragrep RELP logging operator for Kubernetes
+
+|https://github.com/teragrep/mvn_01[mvn_01]
+|Project archetype for Teragrep
 
 |https://github.com/teragrep/pth_03[pth_03]
 |Data Processing Language (DPL) parser

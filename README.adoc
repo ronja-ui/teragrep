@@ -116,8 +116,20 @@ This is a portal page for accessing different parts of Teragrep.
 |https://github.com/teragrep/mvn_01[mvn_01]
 |Project archetype for Teragrep
 
+|https://github.com/teragrep/nbs_01[nbs_01]
+|Notebook server for Teragrep Backend
+
+|https://github.com/teragrep/net_01[net_01]
+|Teragrep zero copy networking library for Java
+
+|https://github.com/teragrep/nlf_01
+|Teragrep Neon log format plugin for AKV_01
+
 |https://github.com/teragrep/pth_03[pth_03]
-|Data Processing Language (DPL) parser
+|Data Processing Language (DPL) grammar for Teragrep
+
+|https://github.com/teragrep/pth_05
+|Authorization scheme for Teragrep archive
 
 |https://github.com/teragrep/pth_06[pth_06]
 |Teragrep Datasource for Apache Spark
@@ -129,29 +141,68 @@ This is a portal page for accessing different parts of Teragrep.
 |Data Processing Language (DPL) translator for Apache Spark
 
 |https://github.com/teragrep/rad_01[rad_01]
-|Record Audit Data library
+|Record Access Audit Framework for Teragrep
+
+|https://github.com/teragrep/rde_01[rde_01]
+|Record Data Mapper for Teragrep
 
 |https://github.com/teragrep/rlo_04[rlo_04]
-|rsyslog regex perfect file input plugin
+|Teragrep file input plugin for rsyslog
 
 |https://github.com/teragrep/rlo_06[rlo_06]
-|Syslog (RFC 5424) library for Java
+|Teragrep syslog (RFC 5424) library for Java
 
 |https://github.com/teragrep/rlo_08[rlo_08]
 |Syslog (RFC 5424) formatter for JavaScript
 
+|https://github.com/teragrep/rlo_11[rlo_11]
+|Teragrep Record Router Library for Java
+
+|https://github.com/teragrep/rlo_12[rlo_12]
+|Teragrep Recursive File Event Monitor for Java
+
+|https://github.com/teragrep/rlo_13[rlo_13]
+|Teragrep file reader with persistence for Java
+
 |https://github.com/teragrep/rlp_01[rlp_01]
-|Java RELP library
+|Teragrep Reliable Event Logging Protocol (RELP) Library for Java
 
 |https://github.com/teragrep/rlp_02[rlp_02]
-|NodeJS RELP library
+|Teragrep RELP client for JavaScript
 
 |https://github.com/teragrep/rlp_03[rlp_03]
-|Java RELP server library
+|Teragrep RELP library for Java
 
 |https://github.com/teragrep/rlp_05[rlp_05]
-|Go RELP library
+|Teragrep RELP library for Go
+
+|https://github.com/teragrep/rlp_06[rlp_06]
+|Teragrep Syslog-RELP Developer Example for Java
+
+|https://github.com/teragrep/rlp_07[rlp_07]
+|Teragrep RELP syslog to standard output server application
+
+|https://github.com/teragrep/rlp_08[rlp_08]
+|Teragrep RELP syslog discard server application
+
+|https://github.com/teragrep/rlp_09[rlp_09]
+|Teragrep RELP syslog performance test client for Java
+
+|https://github.com/teragrep/rlp_10[rlp_10]
+|Teragrep RELP syslog performance test client application
+
+|https://github.com/teragrep/rlp_11[rlp_11]
+|Teragrep RELP commit latency probe client application
+
+|https://github.com/teragrep/rsm_01[rsm_01]
+|Teragrep record schema mapper library for Java
+
+|https://github.com/teragrep/snw_01[snw_01]
+|Teragrep RELP syslog export for ServiceNow tables
+
+|https://github.com/teragrep/syn_01[syn_01]
+|Teragrep Syntax Library for Java
 
 |https://github.com/teragrep/zep_01[zep_01]
-|Teragrep back-end 
+|User interface back-end for Teragrep
 |=== 

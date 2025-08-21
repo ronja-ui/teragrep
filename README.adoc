@@ -122,13 +122,13 @@ This is a portal page for accessing different parts of Teragrep.
 |https://github.com/teragrep/net_01[net_01]
 |Teragrep zero copy networking library for Java
 
-|https://github.com/teragrep/nlf_01
+|https://github.com/teragrep/nlf_01[nlf_01]
 |Teragrep Neon log format plugin for AKV_01
 
 |https://github.com/teragrep/pth_03[pth_03]
 |Data Processing Language (DPL) grammar for Teragrep
 
-|https://github.com/teragrep/pth_05
+|https://github.com/teragrep/pth_05[pth_05]
 |Authorization scheme for Teragrep archive
 
 |https://github.com/teragrep/pth_06[pth_06]

@@ -134,9 +134,6 @@ This is a portal page for accessing different parts of Teragrep.
 |https://github.com/teragrep/pth_06[pth_06]
 |Teragrep Datasource for Apache Spark
 
-|https://github.com/teragrep/pth_07[pth_07]
-|Data Processing Language (DPL) Interpreter for Apache Zeppelin
-
 |https://github.com/teragrep/pth_10[pth_10]
 |Data Processing Language (DPL) translator for Apache Spark
 
